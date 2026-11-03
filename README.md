@@ -26,3 +26,11 @@ To install development dependencies and run the tests, use the following command
 python -m pip install -e '.[dev]'
 python -m pytest -q
 ```
+
+## How the phone demo works
+
+1. Describe a change you want to make.
+2. Review the generated diff prepared by the model.
+3. Approve the change to create a pull request.
+
+Merging the pull request is done manually on GitHub after reviewing the changes.
