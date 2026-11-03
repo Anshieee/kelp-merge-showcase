@@ -26,3 +26,9 @@ To install development dependencies and run the tests, use the following command
 python -m pip install -e '.[dev]'
 python -m pytest -q
 ```
+
+## Before you merge
+
+- [ ] Review every changed file
+- [ ] Run the test suite
+- [ ] Confirm the PR targets the correct branch
