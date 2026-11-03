@@ -17,3 +17,12 @@ and the worker secrets on this repository's Actions settings. Keep all values
 in the relevant secret store. Coordinate the repo switch with other demo users.
 
 Local checks: python -m pip install -e '.[dev]' && python -m pytest -q
+
+## Quick start
+
+To install development dependencies and run the tests, use the following commands:
+
+```bash
+python -m pip install -e '.[dev]'
+python -m pytest -q
+```
