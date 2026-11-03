@@ -1,4 +1,4 @@
-# Kelp merge showcase
+# Kelp release showcase
 
 A disposable repository for demonstrating Kelp's phone-to-PR flow.
 
